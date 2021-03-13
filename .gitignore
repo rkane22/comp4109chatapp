@@ -1,13 +1,13 @@
-node_modules/**/*
-.expo/*
-npm-debug.*
+chat_app/node_modules/**/*
+chat_app/.expo/*
+chat_app/npm-debug.*
 *.jks
 *.p8
 *.p12
 *.key
 *.mobileprovision
 *.orig.*
-web-build/
+chat_app/web-build/
 
 # macOS
-.DS_Store
+chat_app/.DS_Store
